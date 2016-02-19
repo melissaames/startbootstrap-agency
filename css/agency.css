@@ -152,7 +152,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
-  color: white;
+  color: black;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-default .navbar-brand:hover,
@@ -169,11 +169,11 @@ fieldset[disabled] .btn-xl.active {
   border-color: #76BF8D;
 }
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: white;
+  background-color: black;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: white;
+  background-color: black;
 }
 .navbar-default .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -184,12 +184,12 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
-  color: black;
+  color: white;
   outline: none;
 }
 .navbar-default .navbar-nav > .active > a {
   border-radius: 0;
-  color: white;
+  color: black;
   background-color: #76BF8D;
 }
 .navbar-default .navbar-nav > .active > a:hover,
