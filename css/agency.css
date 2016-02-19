@@ -93,17 +93,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #76BF8D;
-  border-color: #76BF8D;
+  background-color: black;
+  border-color: black;
 }
 .btn-primary .badge {
-  color: #76BF8D;
+  color: black;
   background-color: #ffffff;
 }
 .btn-xl {
   color: #ffffff;
-  background-color: #76BF8D;
-  border-color: #76BF8D;
+  background-color: black;
+  border-color: black;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
