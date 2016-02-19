@@ -102,8 +102,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-xl {
   color: #ffffff;
-  background-color: black;
-  border-color: black;
+  background-color: rgba(250,250,250,0.4);
+  border-color: rgba(250,250,250,0.6);
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -117,8 +117,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
   color: #ffffff;
-  background-color: #76BF8D;
-  border-color: #76BF8D;
+  background-color: #071227;
+  border-color: #071227;
 }
 .btn-xl:active,
 .btn-xl.active,
@@ -140,15 +140,15 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color: #76BF8D;
-  border-color: #76BF8D;
+  background-color: #071227;
+  border-color: #071227;
 }
 .btn-xl .badge {
-  color: #76BF8D;
+  color: #071227;
   background-color: #ffffff;
 }
 .navbar-default {
-  background-color: #222222;
+  background-color: #071227;
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
