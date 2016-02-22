@@ -165,8 +165,8 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-default .navbar-toggle {
-  background-color: #76BF8D;
-  border-color: #76BF8D;
+  background-color: #41659a;
+  border-color: #41659a;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
@@ -311,7 +311,7 @@ section h3.section-subheading {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
-  background: rgba(254, 209, 54, 0.9);
+  background: rgba(65,101,154,0.9);
   position: absolute;
   width: 100%;
   height: 100%;
