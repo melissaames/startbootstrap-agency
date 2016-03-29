@@ -624,6 +624,7 @@ footer ul.quicklinks {
 }
 ul.social-buttons {
   margin-bottom: 0;
+  position: center;
 }
 ul.social-buttons li a {
   display: block;
