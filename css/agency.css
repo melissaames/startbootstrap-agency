@@ -734,6 +734,9 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+.footer .row {
+  text-align: center;
+}
 body {
   webkit-tap-highlight-color: #41659a;
 }
