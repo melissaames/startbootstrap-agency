@@ -673,7 +673,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
   font-family: 'Roboto', sans-serif;
-  font-style: italic;
+  font-style: none;
   font-size: 16px;
 }
 .portfolio-modal .modal-content ul.list-inline {
