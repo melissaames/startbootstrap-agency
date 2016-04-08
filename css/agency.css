@@ -241,7 +241,7 @@ header .intro-text {
 }
 header .intro-text .intro-lead-in {
   font-family: 'Raleway', sans-serif;
-  font-style: italic;
+  font-style: none;
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 50px;
