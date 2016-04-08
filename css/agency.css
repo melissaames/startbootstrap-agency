@@ -354,7 +354,7 @@ section h3.section-subheading {
 }
 #portfolio .portfolio-item .portfolio-caption p {
   font-family: 'Roboto', sans-serif;
-  font-style: italic;
+  font-style: none;
   font-size: 16px;
   margin: 0;
 }
