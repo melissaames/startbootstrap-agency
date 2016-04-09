@@ -189,7 +189,6 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-default .navbar-nav > .active > a {
   border-radius: 0;
-  color: white;
   border: 2px solid white;
 }
 .navbar-default .navbar-nav > .active > a:hover,
