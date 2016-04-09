@@ -170,11 +170,11 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
-  border-color: none;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: rgba(4,16,34,0.9);
+  border-color: none;
 }
 .navbar-default .nav li a {
   font-family: 'Roboto', sans-serif;
