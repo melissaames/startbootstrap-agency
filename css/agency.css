@@ -168,6 +168,11 @@ fieldset[disabled] .btn-xl.active {
   background-color: none;
   border-color: none;
 }
+
+.navbar-default .navbar-toggle {
+    border-color: black;
+}    
+
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
 }
