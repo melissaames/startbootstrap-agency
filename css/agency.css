@@ -169,7 +169,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: none;
 }
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: white;
+  background-color: none;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
