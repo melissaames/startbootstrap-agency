@@ -254,6 +254,7 @@ header .intro-text .intro-lead-in {
 header .intro-text .intro-heading {
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
+  letter-spacing:.1em;
   font-weight: 900;
   font-size: 50px;
   line-height: 50px;
@@ -274,6 +275,7 @@ header .intro-text .intro-heading {
   header .intro-text .intro-heading {
     font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
+    letter-spacing:.1em;
     font-weight: 900;
     font-size: 75px;
     line-height: 75px;
