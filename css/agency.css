@@ -255,7 +255,6 @@ header .intro-text .intro-heading {
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   font-weight: 900;
-  letter-spacing:.3em;
   font-size: 50px;
   line-height: 50px;
   margin-bottom: 25px;
@@ -276,7 +275,6 @@ header .intro-text .intro-heading {
     font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
     font-weight: 900;
-    letter-spacing:.3em;
     font-size: 75px;
     line-height: 75px;
     margin-bottom: 20px;
