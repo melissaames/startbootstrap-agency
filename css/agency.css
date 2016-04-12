@@ -272,9 +272,9 @@ header .intro-text .intro-heading {
     margin-bottom: 45px;
   }
   header .intro-text .intro-heading {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Cabin', sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 75px;
     line-height: 75px;
     margin-bottom: 20px;
