@@ -224,8 +224,14 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('');
-
+  background-image: url('https://raw.githubusercontent.com/melissaames/startbootstrap-agency/gh-pages/images/header.png');
+  background-repeat: none;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
   text-align: center;
   color: black;
 }
