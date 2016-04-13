@@ -1,8 +1,3 @@
-/*!
- * Agency v1.0.7 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
 
 body {
   overflow-x: hidden;
@@ -230,13 +225,7 @@ fieldset[disabled] .btn-xl.active {
 }
 header {
   background-image: url('');
-  background-repeat: none;
-  background-attachment: scroll;
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+
   text-align: center;
   color: black;
 }
