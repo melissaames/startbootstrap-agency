@@ -570,3 +570,7 @@ body {
   padding-bottom: 80px;
 }
 } 
+
+.centered {
+  text-align: center;
+}
