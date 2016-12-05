@@ -227,7 +227,7 @@ header {
   background-image: url('https://raw.githubusercontent.com/melissaames/startbootstrap-agency/gh-pages/images/hero.png');
   background-repeat: none;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
