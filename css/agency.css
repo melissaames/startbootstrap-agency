@@ -233,7 +233,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   text-align: left;
-  color: white;
+  color: black;
 }
 header .intro-text {
   padding-top: 100px;
