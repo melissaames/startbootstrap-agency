@@ -179,9 +179,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
   font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight: 500;
   letter-spacing: 1px;
-  color: white;
+  color: black;
 }
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
