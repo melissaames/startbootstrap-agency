@@ -147,7 +147,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
-  color: black;
+  color: white;
   font-family: 'Roboto', sans-serif;
 }
 .navbar-default .navbar-brand:hover,
