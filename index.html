@@ -26,16 +26,39 @@
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+<style>
+.parallax {
+    /* The image used */
+    background-image: url("https://raw.githubusercontent.com/melissaames/startbootstrap-agency/gh-pages/images/hero.png");
 
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
 </head>
 
+
 <body id="page-top" class="index">
+    
+    
+    
+<p>Scroll Up and Down this page to see the parallax scrolling effect.</p>
+
+<div class="parallax"></div>
+
+<div style="height:1000px;background-color:red;font-size:36px">
+Scroll Up and Down this page to see the parallax scrolling effect.
+This div is just here to enable scrolling.
+Tip: Try to remove the background-attachment property to remove the scrolling effect.
+</div>
+
+    
 
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
